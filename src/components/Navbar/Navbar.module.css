@@ -27,6 +27,11 @@
   list-style: none;
 }
 
+.menuBtn {
+  display: none; /* Hide hamburger button by default */
+}
+
+
 .menuItems a {
   font-size: 25px;
   color: var(--color-text);
