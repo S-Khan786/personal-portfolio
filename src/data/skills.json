@@ -26,5 +26,45 @@
     {
       "title": "Figma",
       "imageSrc": "skills/figma.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/c++.png"  
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "Postman",
+      "imageSrc": "skills/postman.png"
+    },
+    {
+      "title": "VSCode",
+      "imageSrc": "skills/vscode.png"
     }
 ]
