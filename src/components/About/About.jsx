@@ -14,22 +14,15 @@ const About = () => {
           <li className={styles.aboutItem}>
             <img src="../../../assets/about/cursorIcon.png" alt="cursor Icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developr</h3>
-              <p>Lorem</p>
+              <h3>Frontend Developer<a href='https://drive.google.com/file/d/1-h5_ittS_uEuBYGhw06s2WeC-7YZRfqv/view?usp=sharing' target='blank'>Certificate</a></h3>
+              <p>I&apos;m a frontend developer with the experience in building responsive and optimized sites</p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src="../../../assets/about/serverIcon.png" alt="server Icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developr</h3>
-              <p>Lorem</p>
-            </div>
-          </li>
-          <li className={styles.aboutItem}>
-            <img src="../../../assets/about/uiIcon.png" alt="UI Icon" />
-            <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
-              <p>Lorem</p>
+              <h3>Backend Developer<a href='https://drive.google.com/file/d/1x3Rb3iitWxupRlT9aqVWN37hmSwGeM_4/view?usp=drive_link' target='blank'>Certificate</a></h3>
+              <p>I have experience developing fast and optimized back-end systems and API&apos;s</p>
             </div>
           </li>
         </ul>
