@@ -3,7 +3,7 @@
 import { useState } from "react";
 import styles from "./Navbar.module.css";
 
-// ../../../assets/nav/menuIcon.png
+// ../../../public/assets/nav/menuIcon.png
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
