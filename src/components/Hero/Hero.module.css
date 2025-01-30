@@ -20,7 +20,7 @@
 }
 
 .title {
-  font-size: 72px;
+  font-size: 49px;
   font-weight: 900;
   margin-bottom: 33px;
   font-family: var(--font-roboto);
@@ -105,6 +105,22 @@
     z-index: 0;
 }   
 
+.animatedText {
+    font-weight: bold;
+    color: var(--color-primary);
+    border-right: 2px solid var(--color-primary); /* Cursor effect */
+    display: inline-block;
+    padding-right: 5px;
+    animation: blinkCursor 0.8s infinite;
+  }
+  
+  @keyframes blinkCursor {
+    50% {
+      border-color: transparent;
+    }
+  }
+  
+
 @media screen and (max-width: 830px) {
     .container {
         flex-direction: column-reverse;
@@ -112,5 +128,9 @@
 
     .content {
         align-items: center;
+    }
+
+    .title {
+        text-align: center;
     }
 }
