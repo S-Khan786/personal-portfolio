@@ -8,11 +8,19 @@
       "source": "https://github.com/S-Khan786/major-project-1"
     },
     {
+      "title": "Real Time Chat App",
+      "imageSrc": "projects/project.png",
+      "description": "esigned and deployed a real-time chat application using the MERN stack and Socket.io, improving engagement by 40%, implementing JWT authentication, developing a WhatsApp-inspired UI with React, HTML5, and CSS3, and optimizing the Node.js & Express.js backend.",
+      "skills": ["React", "Node", "MongoDB", "Express", "Javascript"],
+      "demo": "https://sk-chat-app.onrender.com/login",
+      "source": "https://github.com/S-Khan786/chat-mern-app"
+    },
+    {
       "title": "Movie App",
       "imageSrc": "projects/project.png",
       "description": "Developed a dynamic movie app with React and Redux, attracting 2,000+ users, processing 15,000+ API calls monthly, and boosting user engagement by 25% through features like favorites and a responsive search bar.",
       "skills": ["React", "Redux", "Javascript"],
-      "demo": "",
+      "demo": "https://movie-webbb-app.netlify.app/",
       "source": "https://github.com/S-Khan786/Movie-Application"
     },
     {
@@ -20,7 +28,7 @@
       "imageSrc": "projects/project.png",
       "description": "Developed a dynamic weather app with React.js, attracting 5,000+ users, processing 10,000+ daily API requests, and improving performance by 20% while ensuring cross-device compatibility.",
       "skills": ["React", "Javascript", "OpenWeatherAPI"],
-      "demo": "",
+      "demo": "https://weather-webbb-app.netlify.app/",
       "source": "https://github.com/S-Khan786/WeatherApp"
     }
   ]
